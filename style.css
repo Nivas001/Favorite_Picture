@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap')
 *{
     background-color: black;
 }
@@ -12,7 +12,7 @@ div{
     /* object-fit: contain; */
     text-align: center;
     color: white;
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'Inter', serif;
 }
 
 .jadu{
